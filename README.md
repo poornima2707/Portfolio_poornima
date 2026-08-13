@@ -1,8 +1,8 @@
 # <h1 align="center">Poornima Mendhekar</h1>
-<h3 align="center">Software Developer • ServiceNow Specialist (CAD & CSA) • AI/ML & GenAI Engineer</h3>
+<h3 align="center">Software & Full Stack Developer • ServiceNow Specialist (CAD & CSA) • AI/ML & GenAI Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=FBBF24&center=true&vCenter=true&width=750&lines=ServiceNow+Certified+Application+Developer+(CAD);ServiceNow+Certified+System+Administrator+(CSA);AI+%2F+ML+%2F+GenAI+Research+Engineer;IoT+%2F+Embedded+Edge+Hardware+Developer;Published+Scopus+%26+IEEE+Researcher;Patent+Application+No.+202521124780" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=FBBF24&center=true&vCenter=true&width=800&lines=Full+Stack+%26+Software+Developer;ServiceNow+Certified+Application+Developer+(CAD);ServiceNow+Certified+System+Administrator+(CSA);AI+%2F+ML+%2F+GenAI+Research+Engineer;IoT+%2F+Embedded+Edge+Hardware+Developer;Published+Scopus+%26+IEEE+Researcher;Patent+Application+No.+202521124780" alt="Typing Banner" />
 </div>
 
 <br/>
@@ -25,11 +25,11 @@
 
 ### 💫 Professional Overview
 
-I am a **ServiceNow Dual-Certified Developer (CAD & CSA)**, **AI/ML & GenAI Engineer**, and **Published Researcher** dedicated to engineering intelligent enterprise digital workflows, multimodal computer vision systems, and edge IoT hardware intelligence.
+I am a **Software & Full Stack Developer**, **ServiceNow Dual-Certified Specialist (CAD & CSA)**, **AI/ML & GenAI Engineer**, and **Published Researcher** dedicated to engineering full-stack Web applications, enterprise digital workflows, multimodal computer vision systems, and edge IoT hardware intelligence.
 
-My work centers on building custom digital solutions on the **ServiceNow** platform (Service Portals, Client Scripts, Business Rules, Flow Designer) and training multimodal vision-language GenAI models utilizing **Gemini Pro Vision, LLaVA, and Qwen** for automated document and damage inspection via REST APIs. Beyond enterprise software, I specialize in embedded hardware engineering — having designed real-time multilingual speech-to-speech translation systems on **Raspberry Pi** and motion-controlled touchless setups on **Arduino UNO**.
+My work centers on building custom full-stack solutions and ServiceNow applications (Service Portals, Client Scripts, Business Rules, Flow Designer) as well as training multimodal vision-language GenAI models utilizing **Gemini Pro Vision, LLaVA, and Qwen** for automated document and damage inspection via REST APIs. Beyond full-stack and enterprise software, I specialize in embedded hardware engineering — having designed real-time multilingual speech-to-speech translation systems on **Raspberry Pi** and motion-controlled touchless setups on **Arduino UNO**.
 
-In addition to software engineering, I hold industry certifications in **Red Hat Linux (RH124), Google Cloud Platform, Oracle Database Foundations, and Power BI Data Analytics**. As an active researcher, I have published peer-reviewed research papers in **IEEE (AUTOCOM 2025)** and **AIP (Scopus Indexed)**, alongside holding **Patent Application No. 202521124780** published in the Patent Office Journal of India.
+In addition to full-stack software development, I hold industry certifications in **Red Hat Linux (RH124), Google Cloud Platform, Oracle Database Foundations, and Power BI Data Analytics**. As an active researcher, I have published peer-reviewed research papers in **IEEE (AUTOCOM 2025)** and **AIP (Scopus Indexed)**, alongside holding **Patent Application No. 202521124780** published in the Patent Office Journal of India.
 
 ---
 
@@ -38,7 +38,7 @@ In addition to software engineering, I hold industry certifications in **Red Hat
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Languages & Frameworks</h4>
+      <h4>💻 Full Stack Languages & Frameworks</h4>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />

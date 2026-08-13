@@ -92,15 +92,6 @@ I am a **ServiceNow Dual Certified Developer (CAD & CSA)**, **AI/ML Specialist**
 
 ---
 
-### 📊 GitHub Statistics & Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poornima2707&show_icons=true&theme=dark&hide_border=true&title_color=FBBF24&icon_color=F59E0B&text_color=CBD5E1&bg_color=161311" alt="Poornima's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornima2707&layout=compact&theme=dark&hide_border=true&title_color=FBBF24&text_color=CBD5E1&bg_color=161311" alt="Top Languages" width="49%" />
-</div>
-
----
-
 ### 🚀 Highlighted Projects
 
 | Project Name | Key Highlights | Stack | Link |

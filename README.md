@@ -7,22 +7,22 @@ Welcome to the official source code repository for **Poornima Mendhekar's Person
 
 ---
 
-## 🛠️ Technology Stack & Badges
+## 🛠️ Technology Stack Used to Build This Website
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Font Awesome 6](https://img.shields.io/badge/Font_Awesome_6-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FormSubmit AJAX](https://img.shields.io/badge/FormSubmit-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)
+
+- **Structure**: HTML5 Semantic Markup
+- **Styling & Aesthetics**: Custom Vanilla CSS3 (Theme 3 Warm Obsidian Charcoal & Gold Palette, Playfair Display Serif Typography, Dark Mode Glassmorphism)
+- **Logic & Interactivity**: JavaScript ES6+ (Typing Effect, Scroll Animations Observer, Category Filters, Floating Back-to-Top Button)
+- **Responsive Layout**: Bootstrap 5.3.3 Grid System
+- **Icons & Graphics**: FontAwesome 6 Free Stack & DevIcon Vector Badges
+- **Backend Contact Form Processing**: Asynchronous FormSubmit AJAX API (`mendhekarpoornima@gmail.com`)
 
 ---
 

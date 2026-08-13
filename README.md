@@ -25,26 +25,11 @@
 
 ### 💫 Professional Overview
 
-I am a **ServiceNow Dual-Certified Developer (CAD & CSA)**, **AI/ML & GenAI Engineer**, and **Published Researcher** specializing in enterprise digital workflows, multimodal computer vision, and embedded edge IoT systems.
+I am a **ServiceNow Dual-Certified Developer (CAD & CSA)**, **AI/ML & GenAI Engineer**, and **Published Researcher** dedicated to engineering intelligent enterprise digital workflows, multimodal computer vision systems, and edge IoT hardware intelligence.
 
-#### **🔑 Core Expertise & Technical Strengths:**
-- 💼 **Enterprise ServiceNow Automation**: Skilled in building custom applications, Service Portals, Client Scripts, Business Rules, and automated digital workflows on the ServiceNow platform.
-- 🤖 **GenAI & Multimodal Vision Models**: Experienced in integrating vision-language LLMs (**Gemini Pro Vision, LLaVA, Qwen**) to automate complex document & damage analysis via scalable REST APIs.
-- 📟 **Embedded Edge IoT Systems**: Designed real-time speech-to-speech translation systems deployed on **Raspberry Pi** and motion-controlled touchless hardware on **Arduino UNO**.
-- 📊 **Data Science & Business Intelligence**: Proficient in ETL pipeline engineering, statistical modeling, time-series forecasting (**Prophet**), and interactive dashboards (**Power BI**).
+My work centers on building custom digital solutions on the **ServiceNow** platform (Service Portals, Client Scripts, Business Rules, Flow Designer) and training multimodal vision-language GenAI models utilizing **Gemini Pro Vision, LLaVA, and Qwen** for automated document and damage inspection via REST APIs. Beyond enterprise software, I specialize in embedded hardware engineering — having designed real-time multilingual speech-to-speech translation systems on **Raspberry Pi** and motion-controlled touchless setups on **Arduino UNO**.
 
-#### **🏆 Industry Credentials & Certifications:**
-- 🟢 **ServiceNow Certified Application Developer (CAD)**
-- 🟢 **ServiceNow Certified System Administrator (CSA)**
-- 🔴 **Red Hat System Administration I (RH124)**
-- 🟡 **Google Cloud Computing Foundations Certification**
-- 🔴 **Oracle Academy Database Foundations**
-- 🟡 **Power BI Data Analytics & Intelligence (Infosys Springboard)**
-
-#### **📜 Published Research & Intellectual Property:**
-- 📄 **IEEE AUTOCOM 2025 Paper**: *Real-Time Language Translation Using IoT Technology* ([View IEEE Xplore Article](https://ieeexplore.ieee.org/document/10956962))
-- 📄 **Scopus Indexed AIP Journal**: *A Geospatial Perspective on Solid Waste Management* ([View AIP Scopus Article](https://pubs.aip.org/aip/acp/article-abstract/3214/1/020024/3318687/A-geospatial-perspective-on-solid-waste-management?redirectedFrom=fulltext))
-- 💡 **Patent Office Journal of India**: *Patent Application No. 202521124780*
+In addition to software engineering, I hold industry certifications in **Red Hat Linux (RH124), Google Cloud Platform, Oracle Database Foundations, and Power BI Data Analytics**. As an active researcher, I have published peer-reviewed research papers in **IEEE (AUTOCOM 2025)** and **AIP (Scopus Indexed)**, alongside holding **Patent Application No. 202521124780** published in the Patent Office Journal of India.
 
 ---
 
